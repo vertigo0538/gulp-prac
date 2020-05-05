@@ -1,5 +1,5 @@
-import { add } from "./util";
+// import { add } from "./util";
 
-let test = add(2, 3);
+// let test = add(2, 3);
 
-console.log(test);
+// console.log(test);
