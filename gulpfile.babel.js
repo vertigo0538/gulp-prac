@@ -77,6 +77,7 @@ const devServer = () =>
     ws({
       livereload: true,
       open: true,
+      port: 3000
     })
   );
 
